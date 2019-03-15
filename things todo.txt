@@ -1,0 +1,21 @@
+1.new usecase
+2.page 16 new Architecture Modeling(sai sent)
+3.4+1 diagram
+4 new sequence diagram
+5.new test cases
+6.implementation (delete last ones) 
+5.2 testings 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
